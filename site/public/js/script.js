@@ -62,7 +62,7 @@ var w = {
             this.geoData = pos; 
             // Fetch and insert the weather data into the DOM.
             this.getWeatherData();
-        },
+        };
 
         /**
          * The error callback.
